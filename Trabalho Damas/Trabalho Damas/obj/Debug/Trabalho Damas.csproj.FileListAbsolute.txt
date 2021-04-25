@@ -1,0 +1,14 @@
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.csprojAssemblyReference.cache
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.csproj.CoreCompileInputs.cache
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.exe.config
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.exe
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.pdb
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.exe
+E:\Arquivos do Visual Studio\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.pdb
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.exe.config
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.exe
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\bin\Debug\Trabalho Damas.pdb
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.csprojAssemblyReference.cache
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.csproj.CoreCompileInputs.cache
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.exe
+E:\Arquivos do Visual Studio\C#\Ifms\Semestre 1\Trabalho Damas\Trabalho Damas\obj\Debug\Trabalho Damas.pdb
