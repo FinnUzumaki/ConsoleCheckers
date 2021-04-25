@@ -4,4 +4,5 @@ Just wanted to save it somewhere.
 It's in portuguese.
 It's just a little project to make a console application that shows the fibonacci sequence, a hangman game and a checkers game for 2 players.
 There are a many features of actual checkers that i didn't know how to implement, i did a work around so it's playable.
-Didn't work very hard in the other two.
+Didn't work very hard on the other two.
+Don't know if it matters but it's a Visual Studio folder.
